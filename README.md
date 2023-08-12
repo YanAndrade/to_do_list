@@ -27,8 +27,8 @@
    - Rota: PUT '/tasks/:id'
    - Descrição: Atualiza os detalhes de uma tarefa existente.
    - Exemplo de corpo da solicitação JSON:
-     ```json
-     {
+     ```json'
+     {  
        "title": "Comprar mantimentos para o jantar",
        "completed": true
      }
