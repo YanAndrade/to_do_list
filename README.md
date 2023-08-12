@@ -51,3 +51,7 @@
 6. **Detalhes da Tarefa:**
    - Rota: GET '/tasks/:id'
    - Descrição: Exibe os detalhes de uma tarefa específica.
+
+
+  user     : 'root',
+  password : '123',
